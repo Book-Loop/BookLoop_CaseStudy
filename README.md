@@ -20,6 +20,17 @@ Welcome to **Book Loop**, the ultimate solution for book enthusiasts! 📚 Wheth
 - **Affordable Pricing**: Reduce costs by accessing books at lower prices compared to traditional bookstores.
 - **Library Integration**: Dedicated section for users targeting specific libraries, where books are listed for purchase directly on the app.
 
+## Comparison with Competitors
+
+| Feature                  | Book Loop ✅ | BookSwap ❌ | ReadEasy ❌ |
+|--------------------------|--------------|-------------|-------------|
+| Buy, Sell, and Borrow Books | ✅           | ✅          | ❌          |
+| Direct Seller Communication | ✅           | ❌          | ✅          |
+| Affordable Pricing         | ✅           | ❌          | ❌          |
+| Library Integration        | ✅           | ❌          | ❌          |
+| Intuitive UI/UX Design     | ✅           | ✅          | ❌          |
+| Community Features         | ✅           | ❌          | ✅          |
+
 ## How to Use
 Book Loop is designed to simplify your book-related needs. Here’s how to get started:
 - **Borrowing Books**: Browse the available books, select the one you like, and request a loan from the owner through the app’s chat feature.
