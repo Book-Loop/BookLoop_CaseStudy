@@ -20,6 +20,13 @@ Welcome to **Book Loop**, the ultimate solution for book enthusiasts! 📚 Wheth
 - **Affordable Pricing**: Reduce costs by accessing books at lower prices compared to traditional bookstores.
 - **Library Integration**: Dedicated section for users targeting specific libraries, where books are listed for purchase directly on the app.
 
+## How to Use
+Book Loop is designed to simplify your book-related needs. Here’s how to get started:
+- **Borrowing Books**: Browse the available books, select the one you like, and request a loan from the owner through the app’s chat feature.
+- **Selling Books**: Upload your books with details (title, price, condition), and wait for buyers to contact you directly.
+- **Buying Books**: Search for books you need, review seller details, and purchase with easy payment options.
+- **Library Section**: If you’re targeting a specific library, explore the dedicated section where libraries list their books. Simply select and buy as needed, all within the app.
+
 ## Comparison with Competitors
 
 | Feature                  | Book Loop ✅ | BookSwap ❌ | ReadEasy ❌ |
@@ -30,13 +37,6 @@ Welcome to **Book Loop**, the ultimate solution for book enthusiasts! 📚 Wheth
 | Library Integration        | ✅           | ❌          | ❌          |
 | Intuitive UI/UX Design     | ✅           | ✅          | ❌          |
 | Community Features         | ✅           | ❌          | ✅          |
-
-## How to Use
-Book Loop is designed to simplify your book-related needs. Here’s how to get started:
-- **Borrowing Books**: Browse the available books, select the one you like, and request a loan from the owner through the app’s chat feature.
-- **Selling Books**: Upload your books with details (title, price, condition), and wait for buyers to contact you directly.
-- **Buying Books**: Search for books you need, review seller details, and purchase with easy payment options.
-- **Library Section**: If you’re targeting a specific library, explore the dedicated section where libraries list their books. Simply select and buy as needed, all within the app.
 
 ## Resources
 - [Book Loop Project Files on Google Drive](https://drive.google.com/drive/u/0/mobile/folders/1W5vyp23oW_PRWl17UFUPEqCJ5qz8bx4l?usp=drive_link&pli=1)
