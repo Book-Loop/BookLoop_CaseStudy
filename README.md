@@ -31,12 +31,11 @@ Book Loop is designed to simplify your book-related needs. Here’s how to get s
 
 | Feature                  | Book Loop ✅ | BookSwap ❌ | ReadEasy ❌ |
 |--------------------------|--------------|-------------|-------------|
-| Buy, Sell, and Borrow Books | ✅           | ✅          | ❌          |
+| Sell, and Borrow Books      | ✅           | ✅          | ❌          |
 | Direct Seller Communication | ✅           | ❌          | ✅          |
 | Affordable Pricing         | ✅           | ❌          | ❌          |
 | Library Integration        | ✅           | ❌          | ❌          |
 | Intuitive UI/UX Design     | ✅           | ✅          | ❌          |
-| Community Features         | ✅           | ❌          | ✅          |
 
 ## Resources
 - [Book Loop Project Files on Google Drive](https://drive.google.com/drive/u/0/mobile/folders/1W5vyp23oW_PRWl17UFUPEqCJ5qz8bx4l?usp=drive_link&pli=1)
