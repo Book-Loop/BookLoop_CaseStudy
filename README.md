@@ -39,3 +39,4 @@ Book Loop is designed to simplify your book-related needs. Here’s how to get s
 
 ## Resources
 - [Book Loop Project Files on Google Drive](https://drive.google.com/drive/u/0/mobile/folders/1W5vyp23oW_PRWl17UFUPEqCJ5qz8bx4l?usp=drive_link&pli=1)
+- [Book Loop Figma Design](https://www.figma.com/design/lzoFRCU2a1PdhEUFf5XJMQ/Book-Loop?node-id=297-1446&t=vfC0HJe29n4GoHhj-1)
